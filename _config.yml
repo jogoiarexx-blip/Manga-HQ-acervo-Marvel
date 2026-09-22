@@ -1,0 +1,10 @@
+# Mantém o GitHub Pages leve: PDFs e capas permanecem no repositório
+# e são carregados diretamente pelo raw.githubusercontent.com.
+exclude:
+  - "Hulk 2014"
+  - "Hulk Cinza"
+  - "Hulk O Ultimo Tita"
+  - "O Ultimo Wolverine"
+  - "Planeta Hulk"
+  - "Queda dos Hulks"
+  - "Thanos vs Hulk"
