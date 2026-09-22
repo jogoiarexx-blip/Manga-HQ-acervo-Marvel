@@ -1,0 +1,784 @@
+{
+  "schemaVersion": 1,
+  "name": "Manga HQ Acervo Marvel",
+  "publisher": "Marvel",
+  "format": "pdf",
+  "supportedFormats": [
+    "pdf"
+  ],
+  "collections": [
+    {
+      "id": "hulk-2014",
+      "title": "Hulk (2014)",
+      "issues": [
+        {
+          "id": "hulk-2014-4",
+          "issue": 4,
+          "title": "Hulk (2014) #4",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%202014/Hulk-2014-04.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%202014/Hulk-2014-04-cover.webp",
+          "size": 15839887,
+          "pageCount": null
+        }
+      ]
+    },
+    {
+      "id": "hulk-cinza",
+      "title": "Hulk Cinza",
+      "issues": [
+        {
+          "id": "hulk-cinza-1",
+          "issue": 1,
+          "title": "Hulk Cinza #1",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20Cinza/HC-01.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20Cinza/HC-01-cover.webp",
+          "size": 13186644,
+          "pageCount": null
+        },
+        {
+          "id": "hulk-cinza-2",
+          "issue": 2,
+          "title": "Hulk Cinza #2",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20Cinza/HC-02.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20Cinza/HC-02-cover.webp",
+          "size": 13811070,
+          "pageCount": null
+        },
+        {
+          "id": "hulk-cinza-3",
+          "issue": 3,
+          "title": "Hulk Cinza #3",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20Cinza/HC-03.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20Cinza/HC-03-cover.webp",
+          "size": 12566599,
+          "pageCount": null
+        }
+      ]
+    },
+    {
+      "id": "hulk-o-ultimo-tita",
+      "title": "Hulk: O Último Titã",
+      "issues": [
+        {
+          "id": "hulk-o-ultimo-tita-1",
+          "issue": 1,
+          "title": "Hulk: O Último Titã",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20O%20Ultimo%20Tita/Hulk-O-Ultimo-Tita.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20O%20Ultimo%20Tita/Hulk-O-Ultimo-Tita-cover.webp",
+          "size": 19659616,
+          "pageCount": null
+        }
+      ]
+    },
+    {
+      "id": "o-ultimo-wolverine",
+      "title": "O Último Wolverine",
+      "issues": [
+        {
+          "id": "o-ultimo-wolverine-1",
+          "issue": 1,
+          "title": "O Último Wolverine #1",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/O%20Ultimo%20Wolverine/O%20Ultimo%20Wolverine%2001.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/O%20Ultimo%20Wolverine/O%20Ultimo%20Wolverine%2001-cover.webp",
+          "size": 19021644,
+          "pageCount": null
+        },
+        {
+          "id": "o-ultimo-wolverine-2",
+          "issue": 2,
+          "title": "O Último Wolverine #2",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/O%20Ultimo%20Wolverine/O%20Ultimo%20Wolverine%2002.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/O%20Ultimo%20Wolverine/O%20Ultimo%20Wolverine%2002-cover.webp",
+          "size": 18682628,
+          "pageCount": null
+        },
+        {
+          "id": "o-ultimo-wolverine-3",
+          "issue": 3,
+          "title": "O Último Wolverine #3",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/O%20Ultimo%20Wolverine/O%20Ultimo%20Wolverine%2003.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/O%20Ultimo%20Wolverine/O%20Ultimo%20Wolverine%2003-cover.webp",
+          "size": 18987104,
+          "pageCount": null
+        }
+      ]
+    },
+    {
+      "id": "planeta-hulk",
+      "title": "Planeta Hulk",
+      "issues": [
+        {
+          "id": "planeta-hulk-1",
+          "issue": 1,
+          "title": "Planeta Hulk #1",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2301.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2301-cover.webp",
+          "size": 4653627,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-2",
+          "issue": 2,
+          "title": "Planeta Hulk #2",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2302.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2302-cover.webp",
+          "size": 4499240,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-3",
+          "issue": 3,
+          "title": "Planeta Hulk #3",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2303.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2303-cover.webp",
+          "size": 5487891,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-5",
+          "issue": 5,
+          "title": "Planeta Hulk #5",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2305.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2305-cover.webp",
+          "size": 10705892,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-6",
+          "issue": 6,
+          "title": "Planeta Hulk #6",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2306.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2306-cover.webp",
+          "size": 5481394,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-7",
+          "issue": 7,
+          "title": "Planeta Hulk #7",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2307.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2307-cover.webp",
+          "size": 6322307,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-8",
+          "issue": 8,
+          "title": "Planeta Hulk #8",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2308.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2308-cover.webp",
+          "size": 7120045,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-9",
+          "issue": 9,
+          "title": "Planeta Hulk #9",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2309.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2309-cover.webp",
+          "size": 7664894,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-10",
+          "issue": 10,
+          "title": "Planeta Hulk #10",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2310.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2310-cover.webp",
+          "size": 5086280,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-11",
+          "issue": 11,
+          "title": "Planeta Hulk #11",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2311.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2311-cover.webp",
+          "size": 5431353,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-12",
+          "issue": 12,
+          "title": "Planeta Hulk #12",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2312.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2312-cover.webp",
+          "size": 7141542,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-13",
+          "issue": 13,
+          "title": "Planeta Hulk #13",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2313.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2313-cover.webp",
+          "size": 7171877,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-14",
+          "issue": 14,
+          "title": "Planeta Hulk #14",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2314.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2314-cover.webp",
+          "size": 6729540,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-15",
+          "issue": 15,
+          "title": "Planeta Hulk #15",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2315.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2315-cover.webp",
+          "size": 6365178,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-16",
+          "issue": 16,
+          "title": "Planeta Hulk #16",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2316.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2316-cover.webp",
+          "size": 6774528,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-17",
+          "issue": 17,
+          "title": "Planeta Hulk #17",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2317.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2317-cover.webp",
+          "size": 6438317,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-18",
+          "issue": 18,
+          "title": "Planeta Hulk #18",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2318.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2318-cover.webp",
+          "size": 11661635,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-20",
+          "issue": 20,
+          "title": "Planeta Hulk #20",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2320.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2320-cover.webp",
+          "size": 8771997,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-23",
+          "issue": 23,
+          "title": "Planeta Hulk #23",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2323.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2323-cover.webp",
+          "size": 11926534,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-25",
+          "issue": 25,
+          "title": "Planeta Hulk #25",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/04%20O%20Planeta%20sem%20o%20Hulk%20-%20Planeta%20Hulk%20%2325.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/04%20O%20Planeta%20sem%20o%20Hulk%20-%20Planeta%20Hulk%20%2325-cover.webp",
+          "size": 8391054,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-26",
+          "issue": 26,
+          "title": "Planeta Hulk #26",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/04%20O%20Planeta%20sem%20o%20Hulk%20-%20Planeta%20Hulk%20%2326.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/04%20O%20Planeta%20sem%20o%20Hulk%20-%20Planeta%20Hulk%20%2326-cover.webp",
+          "size": 9597347,
+          "pageCount": null
+        },
+        {
+          "id": "planeta-hulk-27",
+          "issue": 27,
+          "title": "Planeta Hulk #27",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/04%20O%20Planeta%20sem%20o%20Hulk%20-%20Planeta%20Hulk%20%2327.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/04%20O%20Planeta%20sem%20o%20Hulk%20-%20Planeta%20Hulk%20%2327-cover.webp",
+          "size": 11415485,
+          "pageCount": null
+        }
+      ]
+    },
+    {
+      "id": "queda-dos-hulks",
+      "title": "Queda dos Hulks",
+      "issues": [
+        {
+          "id": "queda-dos-hulks-12",
+          "issue": 12,
+          "title": "Queda dos Hulks #12",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Queda%20dos%20Hulks/QDH-12.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Queda%20dos%20Hulks/QDH-12-cover.webp",
+          "size": 16683359,
+          "pageCount": null
+        },
+        {
+          "id": "queda-dos-hulks-14",
+          "issue": 14,
+          "title": "Queda dos Hulks #14",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Queda%20dos%20Hulks/QDH-14.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Queda%20dos%20Hulks/QDH-14-cover.webp",
+          "size": 14353994,
+          "pageCount": null
+        }
+      ]
+    },
+    {
+      "id": "thanos-vs-hulk",
+      "title": "Thanos vs. Hulk",
+      "issues": [
+        {
+          "id": "thanos-vs-hulk-1",
+          "issue": 1,
+          "title": "Thanos vs. Hulk #1",
+          "format": "pdf",
+          "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Thanos%20vs%20Hulk/TVH-01.pdf",
+          "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Thanos%20vs%20Hulk/TVH-01-cover.webp",
+          "size": 21747036,
+          "pageCount": null
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "hulk-2014-4",
+      "issue": 4,
+      "title": "Hulk (2014) #4",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%202014/Hulk-2014-04.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%202014/Hulk-2014-04-cover.webp",
+      "size": 15839887,
+      "pageCount": null,
+      "collectionId": "hulk-2014",
+      "collectionTitle": "Hulk (2014)"
+    },
+    {
+      "id": "hulk-cinza-1",
+      "issue": 1,
+      "title": "Hulk Cinza #1",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20Cinza/HC-01.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20Cinza/HC-01-cover.webp",
+      "size": 13186644,
+      "pageCount": null,
+      "collectionId": "hulk-cinza",
+      "collectionTitle": "Hulk Cinza"
+    },
+    {
+      "id": "hulk-cinza-2",
+      "issue": 2,
+      "title": "Hulk Cinza #2",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20Cinza/HC-02.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20Cinza/HC-02-cover.webp",
+      "size": 13811070,
+      "pageCount": null,
+      "collectionId": "hulk-cinza",
+      "collectionTitle": "Hulk Cinza"
+    },
+    {
+      "id": "hulk-cinza-3",
+      "issue": 3,
+      "title": "Hulk Cinza #3",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20Cinza/HC-03.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20Cinza/HC-03-cover.webp",
+      "size": 12566599,
+      "pageCount": null,
+      "collectionId": "hulk-cinza",
+      "collectionTitle": "Hulk Cinza"
+    },
+    {
+      "id": "hulk-o-ultimo-tita-1",
+      "issue": 1,
+      "title": "Hulk: O Último Titã",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20O%20Ultimo%20Tita/Hulk-O-Ultimo-Tita.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Hulk%20O%20Ultimo%20Tita/Hulk-O-Ultimo-Tita-cover.webp",
+      "size": 19659616,
+      "pageCount": null,
+      "collectionId": "hulk-o-ultimo-tita",
+      "collectionTitle": "Hulk: O Último Titã"
+    },
+    {
+      "id": "o-ultimo-wolverine-1",
+      "issue": 1,
+      "title": "O Último Wolverine #1",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/O%20Ultimo%20Wolverine/O%20Ultimo%20Wolverine%2001.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/O%20Ultimo%20Wolverine/O%20Ultimo%20Wolverine%2001-cover.webp",
+      "size": 19021644,
+      "pageCount": null,
+      "collectionId": "o-ultimo-wolverine",
+      "collectionTitle": "O Último Wolverine"
+    },
+    {
+      "id": "o-ultimo-wolverine-2",
+      "issue": 2,
+      "title": "O Último Wolverine #2",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/O%20Ultimo%20Wolverine/O%20Ultimo%20Wolverine%2002.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/O%20Ultimo%20Wolverine/O%20Ultimo%20Wolverine%2002-cover.webp",
+      "size": 18682628,
+      "pageCount": null,
+      "collectionId": "o-ultimo-wolverine",
+      "collectionTitle": "O Último Wolverine"
+    },
+    {
+      "id": "o-ultimo-wolverine-3",
+      "issue": 3,
+      "title": "O Último Wolverine #3",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/O%20Ultimo%20Wolverine/O%20Ultimo%20Wolverine%2003.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/O%20Ultimo%20Wolverine/O%20Ultimo%20Wolverine%2003-cover.webp",
+      "size": 18987104,
+      "pageCount": null,
+      "collectionId": "o-ultimo-wolverine",
+      "collectionTitle": "O Último Wolverine"
+    },
+    {
+      "id": "planeta-hulk-1",
+      "issue": 1,
+      "title": "Planeta Hulk #1",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2301.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2301-cover.webp",
+      "size": 4653627,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-2",
+      "issue": 2,
+      "title": "Planeta Hulk #2",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2302.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2302-cover.webp",
+      "size": 4499240,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-3",
+      "issue": 3,
+      "title": "Planeta Hulk #3",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2303.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2303-cover.webp",
+      "size": 5487891,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-5",
+      "issue": 5,
+      "title": "Planeta Hulk #5",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2305.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/01%20Prologo%20-%20Planeta%20Hulk%20%2305-cover.webp",
+      "size": 10705892,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-6",
+      "issue": 6,
+      "title": "Planeta Hulk #6",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2306.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2306-cover.webp",
+      "size": 5481394,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-7",
+      "issue": 7,
+      "title": "Planeta Hulk #7",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2307.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2307-cover.webp",
+      "size": 6322307,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-8",
+      "issue": 8,
+      "title": "Planeta Hulk #8",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2308.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2308-cover.webp",
+      "size": 7120045,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-9",
+      "issue": 9,
+      "title": "Planeta Hulk #9",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2309.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/02%20Tempo%20de%20Paz%20-%20Planeta%20Hulk%20%2309-cover.webp",
+      "size": 7664894,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-10",
+      "issue": 10,
+      "title": "Planeta Hulk #10",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2310.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2310-cover.webp",
+      "size": 5086280,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-11",
+      "issue": 11,
+      "title": "Planeta Hulk #11",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2311.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2311-cover.webp",
+      "size": 5431353,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-12",
+      "issue": 12,
+      "title": "Planeta Hulk #12",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2312.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2312-cover.webp",
+      "size": 7141542,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-13",
+      "issue": 13,
+      "title": "Planeta Hulk #13",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2313.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2313-cover.webp",
+      "size": 7171877,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-14",
+      "issue": 14,
+      "title": "Planeta Hulk #14",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2314.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2314-cover.webp",
+      "size": 6729540,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-15",
+      "issue": 15,
+      "title": "Planeta Hulk #15",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2315.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2315-cover.webp",
+      "size": 6365178,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-16",
+      "issue": 16,
+      "title": "Planeta Hulk #16",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2316.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2316-cover.webp",
+      "size": 6774528,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-17",
+      "issue": 17,
+      "title": "Planeta Hulk #17",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2317.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2317-cover.webp",
+      "size": 6438317,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-18",
+      "issue": 18,
+      "title": "Planeta Hulk #18",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2318.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2318-cover.webp",
+      "size": 11661635,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-20",
+      "issue": 20,
+      "title": "Planeta Hulk #20",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2320.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2320-cover.webp",
+      "size": 8771997,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-23",
+      "issue": 23,
+      "title": "Planeta Hulk #23",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2323.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/03%20Planeta%20Hulk%20%2323-cover.webp",
+      "size": 11926534,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-25",
+      "issue": 25,
+      "title": "Planeta Hulk #25",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/04%20O%20Planeta%20sem%20o%20Hulk%20-%20Planeta%20Hulk%20%2325.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/04%20O%20Planeta%20sem%20o%20Hulk%20-%20Planeta%20Hulk%20%2325-cover.webp",
+      "size": 8391054,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-26",
+      "issue": 26,
+      "title": "Planeta Hulk #26",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/04%20O%20Planeta%20sem%20o%20Hulk%20-%20Planeta%20Hulk%20%2326.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/04%20O%20Planeta%20sem%20o%20Hulk%20-%20Planeta%20Hulk%20%2326-cover.webp",
+      "size": 9597347,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "planeta-hulk-27",
+      "issue": 27,
+      "title": "Planeta Hulk #27",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/04%20O%20Planeta%20sem%20o%20Hulk%20-%20Planeta%20Hulk%20%2327.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Planeta%20Hulk/04%20O%20Planeta%20sem%20o%20Hulk%20-%20Planeta%20Hulk%20%2327-cover.webp",
+      "size": 11415485,
+      "pageCount": null,
+      "collectionId": "planeta-hulk",
+      "collectionTitle": "Planeta Hulk"
+    },
+    {
+      "id": "queda-dos-hulks-12",
+      "issue": 12,
+      "title": "Queda dos Hulks #12",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Queda%20dos%20Hulks/QDH-12.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Queda%20dos%20Hulks/QDH-12-cover.webp",
+      "size": 16683359,
+      "pageCount": null,
+      "collectionId": "queda-dos-hulks",
+      "collectionTitle": "Queda dos Hulks"
+    },
+    {
+      "id": "queda-dos-hulks-14",
+      "issue": 14,
+      "title": "Queda dos Hulks #14",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Queda%20dos%20Hulks/QDH-14.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Queda%20dos%20Hulks/QDH-14-cover.webp",
+      "size": 14353994,
+      "pageCount": null,
+      "collectionId": "queda-dos-hulks",
+      "collectionTitle": "Queda dos Hulks"
+    },
+    {
+      "id": "thanos-vs-hulk-1",
+      "issue": 1,
+      "title": "Thanos vs. Hulk #1",
+      "format": "pdf",
+      "file": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Thanos%20vs%20Hulk/TVH-01.pdf",
+      "cover": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/Thanos%20vs%20Hulk/TVH-01-cover.webp",
+      "size": 21747036,
+      "pageCount": null,
+      "collectionId": "thanos-vs-hulk",
+      "collectionTitle": "Thanos vs. Hulk"
+    }
+  ],
+  "itemCount": 33,
+  "assetHost": "raw.githubusercontent.com",
+  "assetBase": "https://raw.githubusercontent.com/jogoiarexx-blip/Manga-HQ-acervo-Marvel/main/"
+}
